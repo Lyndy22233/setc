@@ -1,0 +1,11 @@
+{
+    "name": "setcam/emission-center",
+    "description": "SETCAM Emission Center Appointment System",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
